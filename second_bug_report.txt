@@ -1,0 +1,12 @@
+Bug Report #3
+
+Issue: The application doesn't save user preferences after restart.
+Steps to Reproduce:
+1. Open the application.
+2. Change some settings in the preferences.
+3. Close and reopen the app.
+4. The changes are lost.
+
+Expected behavior: The application should save preferences after restart.
+
+Severity: High
