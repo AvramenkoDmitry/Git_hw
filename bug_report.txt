@@ -1,0 +1,9 @@
+Bug Report
+
+Issue: The application crashes on startup.
+Steps to Reproduce:
+1. Open the app
+2. Click on "Start"
+3. The app crashes immediately.
+
+Expected behavior: The app should load without crashing.
