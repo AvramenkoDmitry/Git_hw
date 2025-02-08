@@ -1,0 +1,11 @@
+Bug Report #2
+
+Issue: The application freezes when trying to open the settings menu.
+Steps to Reproduce:
+1. Open the application.
+2. Click on the "Settings" button.
+3. The app freezes and becomes unresponsive.
+
+Expected behavior: The settings menu should open without any issues.
+
+Severity: Medium
